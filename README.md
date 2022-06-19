@@ -1,2 +1,2 @@
-# Python
+# Code in python
 Code in #Python
